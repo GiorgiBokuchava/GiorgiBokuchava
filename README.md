@@ -1,4 +1,4 @@
-# Hi, I'm Giorgi Bokuchava 👋
+# Hi, I'm Giorgi 👋
 
 I’m a **backend-focused software engineer** building **reliable APIs and distributed systems** - with an emphasis on **microservices**, **async execution**, and **event-driven architecture**. I enjoy designing systems that are straightforward to run and evolve: clear boundaries, predictable behavior, and solid persistence.
 
