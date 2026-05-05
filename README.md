@@ -1,8 +1,8 @@
 # Hi, I'm Giorgi Bokuchava 👋
 
-I’m a **backend-focused software engineer** building **reliable APIs and distributed systems** — with an emphasis on **microservices**, **async execution**, and **event-driven architecture**. I enjoy designing systems that are straightforward to run and evolve: clear boundaries, predictable behavior, and solid persistence.
+I’m a **backend-focused software engineer** building **reliable APIs and distributed systems** - with an emphasis on **microservices**, **async execution**, and **event-driven architecture**. I enjoy designing systems that are straightforward to run and evolve: clear boundaries, predictable behavior, and solid persistence.
 
-I’m also interested in **automation** and **practical AI-assisted workflows** (used where they genuinely help—tooling, pipelines, and productivity).
+I’m also interested in **automation** and **practical AI-assisted workflows** (used where they genuinely help: tooling, pipelines, and productivity).
 
 ---
 
@@ -42,7 +42,7 @@ A **FastAPI** REST API for workout planning and tracking with authentication, se
 A scraping + search platform (Python + Flask + Selenium/BeautifulSoup) with **PostgreSQL/SQLite**, Dockerized deployment, and a user-facing interface for filtering and discovery.
 
 ### [YouTube Automation](https://github.com/GiorgiBokuchava/Youtube-Automation)
-An automation pipeline for sourcing content, optional AI/TTS enhancements, rendering, and uploading via APIs — built as a configurable toolchain.
+An automation pipeline for sourcing content, optional AI/TTS enhancements, rendering, and uploading via APIs - built as a configurable toolchain.
 
 ### [Modoro Timer](https://github.com/GiorgiBokuchava/Modoro-Timer)
 A polished **WPF / .NET** Pomodoro timer app with tray integration, global hotkeys, and a desktop-first UX.
