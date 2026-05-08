@@ -41,8 +41,11 @@ A **FastAPI** REST API for workout planning and tracking with authentication, se
 ### [ScrapeScout](https://github.com/GiorgiBokuchava/ScrapeScout)
 A scraping + search platform (Python + Flask + Selenium/BeautifulSoup) with **PostgreSQL/SQLite**, Dockerized deployment, and a user-facing interface for filtering and discovery.
 
-### [YouTube Automation](https://github.com/GiorgiBokuchava/Youtube-Automation)
+### [YouTube Automation](https://github.com/GiorgiBokuchava/Youtube-Automation) (Private for now)
 An automation pipeline for sourcing content, optional AI/TTS enhancements, rendering, and uploading via APIs - built as a configurable toolchain.
+
+### [LMS-Notifier](https://github.com/GiorgiBokuchava/LMS-Notifier)
+A lightweight notification/automation tool that tracks LMS updates and sends alerts via a Telegram bot, reducing manual checking and keeping the flow reliable.
 
 ### [Modoro Timer](https://github.com/GiorgiBokuchava/Modoro-Timer)
 A polished **WPF / .NET** Pomodoro timer app with tray integration, global hotkeys, and a desktop-first UX.
